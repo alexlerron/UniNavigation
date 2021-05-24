@@ -224,11 +224,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8255866}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -12.121408, y: -8.104358, z: 12.11194}
+  m_LocalPosition: {x: -6.9799995, y: 0.51900005, z: 0.4499998}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 49162487}
-  m_RootOrder: 3
+  m_Father: {fileID: 0}
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &49162486
 GameObject:
@@ -256,15 +256,9 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 5.141409, y: 8.623358, z: -11.661941}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 1199362750}
-  - {fileID: 559275379}
-  - {fileID: 1936504195}
-  - {fileID: 8255871}
-  - {fileID: 1588095330}
-  - {fileID: 90457962}
+  m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &53326705
 GameObject:
@@ -402,11 +396,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 90457958}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.168591, y: -8.053358, z: 12.951941}
+  m_LocalPosition: {x: 7.31, y: 0.5699997, z: 1.29}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 49162487}
-  m_RootOrder: 5
+  m_Father: {fileID: 0}
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &90457963
 MonoBehaviour:
@@ -422,6 +416,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cabsArray: []
   desiredCab: 0
+  door: {fileID: 5048765657572830447, guid: fe7d840eb6267014f9f2a0fe982ef4f9, type: 3}
+  tmp: {fileID: 0}
 --- !u!1 &433670124
 GameObject:
   m_ObjectHideFlags: 0
@@ -700,11 +696,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 559275374}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -12.121408, y: -8.123358, z: 19.43194}
+  m_LocalPosition: {x: -6.9799995, y: 0.5, z: 7.7699995}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 49162487}
-  m_RootOrder: 1
+  m_Father: {fileID: 0}
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &569406783
 GameObject:
@@ -1132,11 +1128,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1199362746}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -5.141409, y: -8.623358, z: 11.661941}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children: []
-  m_Father: {fileID: 49162487}
-  m_RootOrder: 0
+  m_Father: {fileID: 0}
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1286599611
 GameObject:
@@ -1313,11 +1309,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1588095326}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -6.751409, y: -8.203358, z: 13.261941}
+  m_LocalPosition: {x: -1.6100001, y: 0.42000008, z: 1.6000004}
   m_LocalScale: {x: 3.2372398, y: 1, z: 7.314784}
   m_Children: []
-  m_Father: {fileID: 49162487}
-  m_RootOrder: 4
+  m_Father: {fileID: 0}
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1595626393
 GameObject:
@@ -1420,7 +1416,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.00016784668, y: -192.9}
+  m_AnchoredPosition: {x: 0.00018310547, y: -192.9}
   m_SizeDelta: {x: 0.00033569336, y: -385.8039}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1868073753
@@ -1561,11 +1557,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1936504190}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -12.121408, y: -8.0943575, z: 4.2719407}
+  m_LocalPosition: {x: -6.9799995, y: 0.5290003, z: -7.39}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 49162487}
-  m_RootOrder: 2
+  m_Father: {fileID: 0}
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2012095998
 PrefabInstance:
