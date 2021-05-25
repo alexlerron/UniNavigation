@@ -119,19 +119,11 @@ MonoBehaviour:
     x: 0
     y: 30
     width: 1920
-<<<<<<< HEAD
     height: 947
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
   controlID: 17
-=======
-    height: 957
-  m_MinSize: {x: 707, y: 492}
-  m_MaxSize: {x: 18002, y: 14042}
-  vertical: 0
-  controlID: 81
->>>>>>> parent of da4b5b4 (/)
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -149,17 +141,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< HEAD
     width: 403
     height: 947
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
-=======
-    width: 267
-    height: 957
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
->>>>>>> parent of da4b5b4 (/)
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 12}
@@ -189,11 +174,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-<<<<<<< HEAD
   controlID: 18
-=======
-  controlID: 82
->>>>>>> parent of da4b5b4 (/)
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -267,17 +248,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1367
     y: 0
-<<<<<<< HEAD
     width: 553
     height: 947
   m_MinSize: {x: 276, y: 121}
   m_MaxSize: {x: 4001, y: 4021}
-=======
-    width: 358
-    height: 957
-  m_MinSize: {x: 275, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
->>>>>>> parent of da4b5b4 (/)
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -403,7 +377,6 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
       m_SelectedIDs: d0e6ffff
       m_LastClickedID: -6448
       m_ExpandedIDs: ece8ffff08eaffff50ebffff52ebffff
@@ -411,26 +384,13 @@ MonoBehaviour:
         m_UserAcceptedRename: 0
         m_Name: Cabinet
         m_OriginalName: Cabinet
-=======
-      m_SelectedIDs: d0330000
-      m_LastClickedID: 13264
-      m_ExpandedIDs: c2f7ffff6afbffff74330000
-      m_RenameOverlay:
-        m_UserAcceptedRename: 0
-        m_Name: 1 floor_wall
-        m_OriginalName: 1 floor_wall
->>>>>>> parent of da4b5b4 (/)
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-<<<<<<< HEAD
         m_UserData: -5830
-=======
-        m_UserData: -2120
->>>>>>> parent of da4b5b4 (/)
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
         m_OriginalEventType: 0
@@ -480,15 +440,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-<<<<<<< HEAD
     m_Target: {x: 4.7228775, y: -2.0363636, z: -14.018815}
     speed: 2
     m_Value: {x: 4.7228775, y: -2.0363636, z: -14.018815}
-=======
-    m_Target: {x: 0.48445368, y: 4.114897, z: -13.165836}
-    speed: 2
-    m_Value: {x: 0.48445368, y: 4.114897, z: -13.165836}
->>>>>>> parent of da4b5b4 (/)
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -535,7 +489,6 @@ MonoBehaviour:
     m_GridAxis: 0
     m_gridOpacity: 0.1
   m_Rotation:
-<<<<<<< HEAD
     m_Target: {x: -0.38845342, y: -0.5265957, z: 0.29355094, w: -0.69696087}
     speed: 2
     m_Value: {x: -0.3879883, y: -0.52760744, z: 0.2941148, w: -0.69612646}
@@ -543,15 +496,6 @@ MonoBehaviour:
     m_Target: 6.9741173
     speed: 2
     m_Value: 7.3027406
-=======
-    m_Target: {x: -0.32152748, y: -0.31309992, z: 0.11367587, w: -0.8864236}
-    speed: 2
-    m_Value: {x: -0.32151458, y: -0.31308734, z: 0.1136713, w: -0.886388}
-  m_Size:
-    m_Target: 4.7104564
-    speed: 2
-    m_Value: 4.7104564
->>>>>>> parent of da4b5b4 (/)
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -690,17 +634,10 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-<<<<<<< HEAD
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 544a0000
     m_LastClickedID: 19028
     m_ExpandedIDs: 00000000544a0000624a000000ca9a3b
-=======
-    scrollPos: {x: 0, y: 14}
-    m_SelectedIDs: c2340000
-    m_LastClickedID: 13506
-    m_ExpandedIDs: 00000000ac340000c234000000ca9a3b
->>>>>>> parent of da4b5b4 (/)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -728,11 +665,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-<<<<<<< HEAD
     m_ExpandedIDs: 00000000544a0000
-=======
-    m_ExpandedIDs: 00000000ac340000
->>>>>>> parent of da4b5b4 (/)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
