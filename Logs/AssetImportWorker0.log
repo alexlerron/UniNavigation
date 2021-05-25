@@ -110,3 +110,60 @@ Received Import Request.
 Start importing Assets/Models/Diplom_1flor.fbx using Guid(41077f3d5e39e704f93fc82351715cca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29619e67a588ce42276a787b1af86a88') in 0.027405 seconds
   Import took 0.028816 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 289.734913 seconds.
+  path: Assets/Scenes/SampleScene/LightingData.asset
+  artifactKey: Guid(24b00c4b48b792049b864678ffcbf581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/LightingData.asset using Guid(24b00c4b48b792049b864678ffcbf581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd627dc9230d8de539758dffd9088f23f') in 0.006501 seconds
+  Import took 0.008099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Scenes/SampleScene/ReflectionProbe-0.exr
+  artifactKey: Guid(2b77efe318fc46046ad9ad879826a402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/ReflectionProbe-0.exr using Guid(2b77efe318fc46046ad9ad879826a402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecd6bf5f84cc7316fe83d47bf0066f33') in 0.017490 seconds
+  Import took 0.018783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.375339 seconds.
+  path: Assets/Prefabs/Cabinet.prefab
+  artifactKey: Guid(8df2f49b6a1bc614d9ce9532ca7dd389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Cabinet.prefab using Guid(8df2f49b6a1bc614d9ce9532ca7dd389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c27348d051f7c31aab9a44f306a324ea') in 0.002874 seconds
+  Import took 0.004246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Prefabs/Door.prefab
+  artifactKey: Guid(fe7d840eb6267014f9f2a0fe982ef4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Door.prefab using Guid(fe7d840eb6267014f9f2a0fe982ef4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ccf2a9983fbaedbc740b3776079730d') in 0.003967 seconds
+  Import took 0.005178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.646260 seconds.
+  path: Assets/Models/Diplom_2flor_centered_separeted.fbx
+  artifactKey: Guid(a8244a5a7bee9bc42ba620fe4aa741cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Diplom_2flor_centered_separeted.fbx using Guid(a8244a5a7bee9bc42ba620fe4aa741cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68424755dd303de553d2a1ba4505a541') in 0.033150 seconds
+  Import took 0.036862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.246391 seconds.
+  path: Assets/Models/Diplom_3flor_centered_separeted.fbx
+  artifactKey: Guid(4cf4678ac9793c64d817e64f395e1927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Diplom_3flor_centered_separeted.fbx using Guid(4cf4678ac9793c64d817e64f395e1927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77e37f2cb21fe38a097baa0f50416d7f') in 0.028957 seconds
+  Import took 0.030416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.819630 seconds.
+  path: Assets/Models/Diplom_4flor_centered_separeted.fbx
+  artifactKey: Guid(a9f5418f12c94b04ca389ac00d445798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Diplom_4flor_centered_separeted.fbx using Guid(a9f5418f12c94b04ca389ac00d445798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99d1b113e1c762db466c8a07ebce711e') in 0.027475 seconds
+  Import took 0.028895 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
