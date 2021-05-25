@@ -385,8 +385,6 @@ GameObject:
   - component: {fileID: 90457960}
   - component: {fileID: 90457959}
   - component: {fileID: 90457963}
-  - component: {fileID: 90457964}
-  - component: {fileID: 90457965}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -486,6 +484,7 @@ MonoBehaviour:
   desiredCab: 0
   door: {fileID: 5048765657572830447, guid: fe7d840eb6267014f9f2a0fe982ef4f9, type: 3}
   tmp: {fileID: 0}
+<<<<<<< HEAD
 --- !u!114 &90457964
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -595,6 +594,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
+=======
+>>>>>>> parent of da4b5b4 (/)
 --- !u!1 &405199925 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7104887200264140817, guid: f6bd5b086858093409f3a7ebbb408ad7,
@@ -2152,7 +2153,7 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
-  m_Convex: 0
+  m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!23 &1199362748

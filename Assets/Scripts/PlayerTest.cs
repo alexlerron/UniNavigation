@@ -28,7 +28,7 @@ public class PlayerTest : MonoBehaviour
         }
         if (Input.GetKey(KeyCode.D))
         {
-            gameObject.transform.position += gameObject.transform.right * speed * Time.deltaTime;
+            gameObject.transform.position = gameObject.transform.right * speed * Time.deltaTime;
         }
 
     }
