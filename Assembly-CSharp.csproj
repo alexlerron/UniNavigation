@@ -68,7 +68,6 @@
     <Compile Include="Assets\Scripts\Data\CabData.cs" />
     <Compile Include="Assets\Scripts\HierarchyComponentsPreview.cs" />
     <Compile Include="Assets\Scripts\Logic\FindCabs.cs" />
-    <Compile Include="Assets\Scripts\PlayerTest.cs" />
     <Compile Include="Assets\sss.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.1f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
