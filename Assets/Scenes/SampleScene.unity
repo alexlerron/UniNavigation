@@ -295,6 +295,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cabinet (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
 --- !u!1 &53326705
@@ -407,6 +411,10 @@ PrefabInstance:
     - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
       propertyPath: m_Name
       value: Cabinet (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
@@ -598,7 +606,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cabsArray: []
   desiredCab: 0
-  door: {fileID: 5048765657572830447, guid: fe7d840eb6267014f9f2a0fe982ef4f9, type: 3}
+  door: {fileID: 1537158537792461774, guid: fa82296ee60266d4b8e81f6416646343, type: 3}
   tmp: {fileID: 0}
 --- !u!114 &90457964
 MonoBehaviour:
@@ -692,6 +700,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cabinet (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
 --- !u!1001 &304182169
@@ -756,6 +768,10 @@ PrefabInstance:
     - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
       propertyPath: m_Name
       value: Cabinet (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
@@ -822,6 +838,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cabinet (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
 --- !u!1001 &380895773
@@ -887,6 +907,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cabinet (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
 --- !u!1001 &381570837
@@ -951,6 +975,10 @@ PrefabInstance:
     - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
       propertyPath: m_Name
       value: Cabinet (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
@@ -1135,6 +1163,10 @@ PrefabInstance:
     - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
       propertyPath: m_Name
       value: Cabinet (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
@@ -1452,6 +1484,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cabinet (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
 --- !u!1001 &802939394
@@ -1516,6 +1552,10 @@ PrefabInstance:
     - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
       propertyPath: m_Name
       value: Cabinet (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
@@ -1582,6 +1622,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cabinet (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
 --- !u!1001 &962867091
@@ -1646,6 +1690,10 @@ PrefabInstance:
     - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
       propertyPath: m_Name
       value: Cabinet (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
@@ -1852,6 +1900,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cabinet (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
 --- !u!1 &1032465376
@@ -2049,6 +2101,10 @@ PrefabInstance:
     - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
       propertyPath: m_Name
       value: Cabinet (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
@@ -2255,6 +2311,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cabinet (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
 --- !u!1 &1286599611
@@ -2408,6 +2468,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cabinet (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
 --- !u!1001 &1510774208
@@ -2473,6 +2537,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cabinet (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
 --- !u!1001 &1547661318
@@ -2537,6 +2605,10 @@ PrefabInstance:
     - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
       propertyPath: m_Name
       value: Cabinet (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
@@ -2764,6 +2836,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cabinet (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
 --- !u!1001 &1769907465
@@ -2829,6 +2905,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cabinet (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
 --- !u!1001 &1809237307
@@ -2893,6 +2973,10 @@ PrefabInstance:
     - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
       propertyPath: m_Name
       value: Cabinet (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
@@ -3038,6 +3122,10 @@ PrefabInstance:
     - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
       propertyPath: m_Name
       value: Cabinet (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
@@ -3453,6 +3541,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cabinet
       objectReference: {fileID: 0}
+    - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
 --- !u!1001 &2037998077
@@ -3517,6 +3609,10 @@ PrefabInstance:
     - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
       propertyPath: m_Name
       value: Cabinet (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7081266613799655888, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8df2f49b6a1bc614d9ce9532ca7dd389, type: 3}
