@@ -4,9 +4,8 @@ using UnityEngine;
 using static UnityEngine.Debug;
 
 public class FindCabs : MonoBehaviour
-{
+{   public int desiredCab;
     public GameObject[] cabsArray;
-    public int desiredCab;
     [SerializeField] private GameObject door;
     [SerializeField] private GameObject tmp;
     void Start()
