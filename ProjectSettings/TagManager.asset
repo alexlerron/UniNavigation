@@ -6,6 +6,7 @@ TagManager:
   tags:
   - cab
   - ground
+  - norenderer
   layers:
   - Default
   - TransparentFX
@@ -13,7 +14,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - No render
   - 
   - 
   - 
