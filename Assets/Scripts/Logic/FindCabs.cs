@@ -39,7 +39,7 @@ public class FindCabs : MonoBehaviour
         try
         {
             agent = tmp1.GetComponentInChildren<NavMeshAgent>();
-            if (agentPoint != agent.path.corners[agent.path.corners.Length - 1]) Way(); // рисуем путь если был изменена конечная точка назначения
+            if (agentPoint != agent.path.corners[agent.path.corners.Length - 1]) Way(); // рисуем путь если была изменена конечная точка назначения
             agentPoint = agent.path.corners[agent.path.corners.Length - 1]; // запоминаем текущую конечную точку назначения
 
             if (agent.path.corners.Length == 1 && points.Count > 1) Way(); // рисуем путь, после прибытия в точку назначения
@@ -105,7 +105,7 @@ public class FindCabs : MonoBehaviour
                 GameObject p = Instantiate(line);
                 p.transform.position = center - Vector3.up * height;
                 p.transform.rotation = Quaternion.FromToRotation(Vector3.right, vec.normalized); // разворот по вектору
-                p.transform.localScale = new Vector3(dis, 0.05f, 0.05f); // растягиваем по Х
+                p.transform.localScale = new Vector3(dis, 0.09f, 0.09f); // растягиваем по Х
                 lines.Add(p);
             }
         }
